@@ -1,0 +1,46 @@
+.Heading {
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: 'Open sans';
+  font-weight: 600;
+  font-style: normal;
+}
+
+.description {
+  text-indent: 30%;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-family: 'Open sans';
+  font-weight: 200;
+  color: white;
+  text-align: justify;
+}
+
+.paragraphe {
+  font-size: 0.7rem;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.paragraphe span {
+  color: orange;
+}
+
+.titre {
+  font-size: 1.2rem;
+  text-align: center;
+  font-family: 'Open sans';
+  font-weight: 500;
+  font-style: normal;
+  color: orange;
+}
+
+.titre2 {
+  font-size: 1rem;
+  text-align: center;
+  font-family: 'Open sans';
+  font-weight: 100;
+  font-style: italic;
+  color: white;
+  text-align: center;
+}

@@ -1,0 +1,61 @@
+.Heading {
+  font-size: 2rem;
+  text-align: center;
+  font-family: 'Open sans';
+  font-weight: 600;
+  font-style: normal;
+}
+
+.Heading2 {
+  font-size: 1.2rem;
+  text-align: center;
+  font-family: 'Open sans';
+  font-weight: 600;
+  font-style: normal;
+  color: azure;
+}
+
+.items {
+  text-align: justify;
+  margin-left: 200px;
+}
+
+.description {
+  margin-right: 100px;
+  margin-left: 100px;
+  font-family: 'Open sans';
+  font-weight: 400;
+  color: orange;
+  text-align: justify;
+}
+
+.description2 {
+  margin-right: 100px;
+  margin-left: 100px;
+  font-family: 'Open sans';
+  font-weight: 400;
+  color: whitesmoke;
+  text-align: justify;
+}
+
+.icon {
+  font-size: 40px;
+  color: orange;
+  transition: color 0.9s;
+  transform: ease-in-out 7s;
+  gap: 20px;
+}
+
+.icon:hover {
+  color: white;
+  transform: scale(1.2);
+}
+
+.titre {
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: 'Open sans';
+  font-weight: 500;
+  font-style: normal;
+  color: orange;
+}
