@@ -179,6 +179,11 @@ const Parcours: React.FC = () => {
             Recrutement des nouveaux profils et identification de nouveaux
             marchés
           </li>
+          <li> Analyse des besoins métier : Identification et compréhension des bésoins des clients pour proposer des solutions adaptées.</li>
+          <li> Création des rapports : Utilisation de Power BI pour concevoir et générer des rapports analytiques détaillés afin d'aider à la prise décision stratégique</li>
+          <li> Gestion des bases de données : Manipulation de bases des données complexes pour collecter, traiter, et analyser les données pertinentes.</li>
+          <li> Collaboration interfonctionnelle : Travail avec différentes équipes (IT, Marketing, Finance) pour s'assurer que les solutions répondent aux exigences métier.</li>
+          <li> Formation et Support : Assistance aux équipes internes pour l'utilisation des outils analytiques et la compréhension des rapports.</li>
         </ul>
       </div>
     </>
