@@ -108,4 +108,9 @@
     align-items: center;
     overflow: hidden;
   }
+
+  
+.items {
+  text-align: left;
+}
 }
